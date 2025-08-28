@@ -4,6 +4,8 @@
 
 Welcome!
 
+<!-- This is a test comment to verify repository access and PR creation -->
+
 LangChain4j Community maintains integrations including model provider, embedding store, etc.
 
 ## Get Help
